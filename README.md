@@ -1,5 +1,5 @@
 # Wave-Simulation
-String Wave Simulation with Matplotlib
+Interactive String Wave Simulation with Matplotlib
 
 You need to install matplotlib and numpy.
 
